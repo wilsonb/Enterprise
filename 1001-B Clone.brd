@@ -505,7 +505,7 @@ Please make sure your boards conform to these design rules.</description>
 </element>
 <element name="C1" library="SparkFun-Capacitors" package="1206" value=".1 uF" x="11.43" y="15.24" smashed="yes" rot="R180">
 <attribute name="NAME" x="11.811" y="14.097" size="0.4064" layer="25" rot="R180"/>
-<attribute name="VALUE" x="11.938" y="13.462" size="0.4064" layer="27" rot="R180"/>
+<attribute name="VALUE" x="11.938" y="13.335" size="0.4064" layer="27" rot="R180"/>
 </element>
 <element name="JP1" library="SparkFun-Connectors" package="SCREWTERMINAL-3.5MM-2" value="POWER IN" x="2.54" y="5.08" smashed="yes">
 <attribute name="VALUE" x="8.636" y="0.381" size="0.4064" layer="27" rot="R90"/>
